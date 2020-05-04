@@ -1,3 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m[watch] [root / Test / test] Found inputs: /home/sky/meetups/current/*.{java,scala},/home/sky/meetups/current/src/main/java/**/*.{java,scala},/home/sky/meetups/current/src/main/resources/**/*,/home/sky/meetups/current/src/main/scala/**/*.{java,scala},/home/sky/meetups/current/src/main/scala-2.13/**/*.{java,scala},/home/sky/meetups/current/src/test/java/**/*.{java,scala},/home/sky/meetups/current/src/test/resources/**/*,/home/sky/meetups/current/src/test/scala/**/*.{java,scala},/home/sky/meetups/current/src/test/scala-2.13/**/*.{java,scala}[0m
-[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for root/test...[0m
-[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
